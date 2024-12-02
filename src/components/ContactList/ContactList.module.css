@@ -1,0 +1,6 @@
+.contactList {
+  flex-direction: column;
+  gap: 10px;
+  /* padding: 0; */
+  /* margin: 0; */
+}
