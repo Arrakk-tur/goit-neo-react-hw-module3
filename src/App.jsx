@@ -20,7 +20,6 @@ function App() {
 
   const handleAddContact = (newContact) => {
     setContacts((prevContacts) => [newContact, ...prevContacts]);
-    console.log(newContact);
   };
 
   const getFilteredContacts = () => {
